@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="title_activity_museum">MuseumActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_churches">Churches</string>
+    <string name="category_Museums">Museums</string>
+</resources>
